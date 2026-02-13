@@ -1,1 +1,3 @@
 # ServerObserver
+
+Учебный проект
